@@ -1,1 +1,1 @@
-class   
+class CatchphraseColumnToCharacters < ActiveRecord::Migration[5.2]
